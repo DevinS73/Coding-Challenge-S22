@@ -32,3 +32,8 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 Source: 
 https://towardsdatascience.com/the-complete-guide-to-classification-in-python-b0e34c92e455
+Libraries:
+pandas
+numpy
+sklearn
+matplotlib & seaborn imported but not used in final version
